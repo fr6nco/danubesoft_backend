@@ -1,0 +1,18 @@
+{
+  "name": "danubesoft_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^3.6.1",
+    "firebase-admin": "^4.0.3",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.2",
+    "q": "^1.4.1"
+  }
+}
